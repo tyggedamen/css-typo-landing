@@ -1,0 +1,14 @@
+.time{
+    grid-row: 1/span 2;
+    grid-column: 5/span 1;
+    padding: 1em;
+    
+    font-size: 2em;
+    writing-mode: vertical-rl;
+
+    display: flex;
+    align-items: center;
+
+    border-right: var(--border-thin);
+    border-left: var(--border-thin);
+}
