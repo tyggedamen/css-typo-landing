@@ -1,6 +1,18 @@
-@import url(variabler.css);
-@import url(base.css);
-@import url(layout.css);
-@import url(venue.css);
-@import url(time.css);
-@import url(subject.css);
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+
+
+@import url('variabler.css');
+@import url('base.css');
+@import url('layout.css');
+@import url('venue.css');
+@import url('time.css');
+@import url('subject.css');
+@import url('learning.css');
+@import url("links.css");
+@import url("we.css");
+@import url("module.css");
+
+@import url(green-cirkel.css);

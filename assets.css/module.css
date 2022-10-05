@@ -1,0 +1,17 @@
+.module {
+
+    grid-row: 4/span 1;
+    grid-column: 4/span 3;
+
+    padding: 3em;
+    text-align: center;
+
+    display: grid;
+
+    /* flex-direction: column;
+    justify-content: center; */
+
+    
+
+
+} 

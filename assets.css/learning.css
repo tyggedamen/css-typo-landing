@@ -1,0 +1,13 @@
+.learning {
+    grid-row: 3/span 1;
+    grid-column: 1/span 9;
+
+    /* background-color: aquamarine; */
+    border-top: var(--border-thin);
+    border-bottom: var(--border-thin);
+
+    font-family: 'Cormorant', serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+    

@@ -1,0 +1,15 @@
+.green-cirkel {
+
+    z-index: -10;
+    margin: auto auto;
+    width: 75vh;
+    height: 75vh;
+    grid-row: 2/span 6;
+    grid-column: 1/span 9;
+    background-color: rgb(165, 228, 230);
+    mix-blend-mode: multiply; 
+    border-radius: 100%;
+}
+
+}
+    

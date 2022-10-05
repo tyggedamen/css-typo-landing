@@ -1,0 +1,12 @@
+.we {
+    grid-row: 4/span 2;
+    grid-column: 1/span 2;
+
+    border-right: var(--border-thin);
+    /* border-left: var(--border-thin); */
+    border-bottom: var(--border-thin);
+
+  font-family: 'Cormorant', serif; ;
+  list-style: none;
+  
+}
