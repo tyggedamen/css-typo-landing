@@ -1,10 +1,9 @@
-
+/* Jeg skulle ha sat "css" som en folder, men fik den lagt ind sammen med assets */
 *{
     margin: 0;
     padding: 0;
 
     box-sizing: border-box;
-
 }
 
 body{

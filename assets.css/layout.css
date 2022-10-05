@@ -27,9 +27,9 @@ header{
 
 }
 header h1{
-    font-weight: 300;
+    font-weight: 200;
 }
-header >p {
+header >p{
     
     text-transform: lowercase;
 }
@@ -46,8 +46,7 @@ main{
 
     border-top: thick double var(--color-dark);
     border-bottom: thick double var(--color-dark);
-    
-    
+
 }
 section{
     font-size: 1em;
@@ -65,3 +64,22 @@ section h2 {
     font-weight: 300;
 
 }
+/* footer {
+    font-size: 1em;
+}
+footer:first-of-type  p{
+    
+   
+    display: grid;
+    grid-row: 6/span 1;
+    grid-column: 1/span 5;
+
+}
+
+footer:last-of-type 9 {
+
+    display:grid;
+    grid-row: 5;
+    grid-column: 6/span 5;
+
+} */

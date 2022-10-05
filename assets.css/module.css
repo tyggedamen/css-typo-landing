@@ -1,12 +1,28 @@
 .module {
-
+ 
+    display: grid;
     grid-row: 4/span 1;
     grid-column: 4/span 3;
 
     padding: 3em;
-    text-align: center;
+    text-align: center; 
 
-    display: grid;
+    
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: 'Cormorant', serif;
+
+    text-transform: uppercase;
+    }
+
+    .module h2{  
+    font-size: 1.5em;
+    
+    
+    
+    
+
+}
 
     /* flex-direction: column;
     justify-content: center; */

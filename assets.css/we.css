@@ -6,7 +6,13 @@
     /* border-left: var(--border-thin); */
     border-bottom: var(--border-thin);
 
-  font-family: 'Cormorant', serif; ;
-  list-style: none;
+  font-family: 'Cormorant', serif; 
+  font-size: 0.8em;
+  /* list-style: none; */
+
+   margin: 2rem; 
   
+}
+.we p{ 
+  font-size: 1.5em;
 }
